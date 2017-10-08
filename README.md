@@ -132,18 +132,26 @@ http://github.com/teecube/reflow-maven-skin/issues
 Fork the repository and submit pull requests.
 
 
-## Author
+## Authors
 
 **Andrius Velykis**
 
 + http://andrius.velykis.lt
-+ http://github.com/teecube
++ https://github.com/andriusvelykis
 
+**Jene Jasper**
+
++ https://github.com/JeneJasper
+
+**Mathieu Debove**
+
++ https://teecu.be
++ https://github.com/debovema
 
 
 ## Copyright and license
 
-Copyright 2012-2013 Andrius Velykis
+Copyright 2012-2018 Andrius Velykis / teecube
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.

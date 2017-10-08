@@ -79,7 +79,7 @@ Inspired by [Maven Fluido Skin][fluido].
 
 ## Copyright and license
 
-Copyright 2012 Andrius Velykis
+Copyright 2012-2018 Andrius Velykis / teecube
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.

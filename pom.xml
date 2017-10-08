@@ -54,16 +54,22 @@
   </licenses>
 
   <organization>
-    <name>Andrius Velykis</name>
-    <url>http://andrius.velykis.lt</url>
+    <name>teecube</name>
+    <url>https://teecu.be</url>
   </organization>
 
   <developers>
     <developer>
-      <id>teecube</id>
+      <id>andriusvelykis</id>
       <name>Andrius Velykis</name>
       <timezone>0</timezone>
       <url>http://andrius.velykis.lt</url>
+    </developer>
+    <developer>
+      <id>debovema</id>
+      <name>Mathieu Debove</name>
+      <timezone>0</timezone>
+      <url>https://teecu.be</url>
     </developer>
   </developers>
 
