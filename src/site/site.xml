@@ -20,7 +20,7 @@
   <skin>
     <groupId>io.teecube.maven.skins</groupId>
     <artifactId>reflow-maven-skin</artifactId>
-    <version>1.1.2-SNAPSHOT</version>
+    <version>${project.version}</version>
   </skin>
   <custom>
     <reflowSkin>
@@ -109,9 +109,9 @@
 
   <body>
     <!-- Add a rel to Google profile for all pages -->
-    <head>
+    <head><![CDATA[
       <link rel="author" href="http://plus.google.com/109737404465892813363"/>
-    </head>
+ ]]></head>
   
     <links>
       <item name="Download" href="skin/index.html#Usage" />

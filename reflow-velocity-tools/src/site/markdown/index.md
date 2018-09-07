@@ -42,9 +42,9 @@ file:
       <dependencies>
         ...
         <dependency>
-          <groupId>lt.velykis.maven.skins</groupId>
+          <groupId>io.teecube.maven.skins</groupId>
           <artifactId>reflow-velocity-tools</artifactId>
-          <version>1.1.1</version>
+          <version>1.1.2</version>
         </dependency>
         ...
       </dependencies>
