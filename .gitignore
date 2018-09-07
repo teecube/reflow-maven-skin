@@ -14,3 +14,7 @@ nbproject
 
 # Maven output dirs
 target/
+
+# IntelliJ
+.idea
+*.iml
