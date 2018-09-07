@@ -2,7 +2,7 @@
 
 The history of Reflow Maven skin releases is documented below. For details of changes refer to the [project's GitHub issues][reflow-issues] or the [GitHub report][github-report].
 
-[reflow-issues]: http://github.com/andriusvelykis/reflow-maven-skin/issues?state=closed
+[reflow-issues]: http://github.com/teecube/reflow-maven-skin/issues?state=closed
 [github-report]: github-report.html
 
 
@@ -15,10 +15,10 @@ The history of Reflow Maven skin releases is documented below. For details of ch
 
 See [all GitHub issues for 1.1.1][reflow-issues-111] for further details.
 
-[#35]: http://github.com/andriusvelykis/reflow-maven-skin/issues/35
-[#36]: http://github.com/andriusvelykis/reflow-maven-skin/issues/36
+[#35]: http://github.com/teecube/reflow-maven-skin/issues/35
+[#36]: http://github.com/teecube/reflow-maven-skin/issues/36
 
-[reflow-issues-111]: http://github.com/andriusvelykis/reflow-maven-skin/issues?milestone=2&amp;state=closed
+[reflow-issues-111]: http://github.com/teecube/reflow-maven-skin/issues?milestone=2&amp;state=closed
 
 
 ## 1.1.0 / 2014-02-17
@@ -40,13 +40,13 @@ See [all GitHub issues for 1.1.1][reflow-issues-111] for further details.
 
 See [all GitHub issues for 1.1.0][reflow-issues-110] for further details.
 
-[#1]: http://github.com/andriusvelykis/reflow-maven-skin/issues/1
-[#8]: http://github.com/andriusvelykis/reflow-maven-skin/issues/8
-[#9]: http://github.com/andriusvelykis/reflow-maven-skin/issues/9
-[#22]: http://github.com/andriusvelykis/reflow-maven-skin/issues/22
-[#24]: http://github.com/andriusvelykis/reflow-maven-skin/issues/24
+[#1]: http://github.com/teecube/reflow-maven-skin/issues/1
+[#8]: http://github.com/teecube/reflow-maven-skin/issues/8
+[#9]: http://github.com/teecube/reflow-maven-skin/issues/9
+[#22]: http://github.com/teecube/reflow-maven-skin/issues/22
+[#24]: http://github.com/teecube/reflow-maven-skin/issues/24
 
-[reflow-issues-110]: http://github.com/andriusvelykis/reflow-maven-skin/issues?milestone=1&amp;state=closed
+[reflow-issues-110]: http://github.com/teecube/reflow-maven-skin/issues?milestone=1&amp;state=closed
 
 
 ## 1.0.0 / 2013-01-15

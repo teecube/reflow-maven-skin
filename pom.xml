@@ -23,26 +23,26 @@
   </modules>
 
   <properties>
-    <site.url>http://andriusvelykis.github.io/reflow-maven-skin</site.url>
+    <site.url>http://teecube.github.io/reflow-maven-skin</site.url>
     <github.global.server>github</github.global.server>
     <site.deploy.id>gh-pages</site.deploy.id>
     <site.deploy.url />
 
     <repositoryName>reflow-maven-skin</repositoryName>
-    <repositoryOwner>andriusvelykis</repositoryOwner>
+    <repositoryOwner>teecube</repositoryOwner>
   </properties>
 
   <url>${site.url}</url>
 
   <scm>
-    <connection>scm:git:git@github.com:andriusvelykis/reflow-maven-skin.git</connection>
-    <developerConnection>scm:git:git@github.com:andriusvelykis/reflow-maven-skin.git</developerConnection>
-    <url>http://github.com/andriusvelykis/reflow-maven-skin/tree/master</url>
+    <connection>scm:git:git@github.com:teecube/reflow-maven-skin.git</connection>
+    <developerConnection>scm:git:git@github.com:teecube/reflow-maven-skin.git</developerConnection>
+    <url>http://github.com/teecube/reflow-maven-skin/tree/master</url>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>GitHub</system>
-    <url>http://github.com/andriusvelykis/reflow-maven-skin/issues</url>
+    <url>http://github.com/teecube/reflow-maven-skin/issues</url>
   </issueManagement>
 
   <licenses>
@@ -60,7 +60,7 @@
 
   <developers>
     <developer>
-      <id>andriusvelykis</id>
+      <id>teecube</id>
       <name>Andrius Velykis</name>
       <timezone>0</timezone>
       <url>http://andrius.velykis.lt</url>
@@ -159,8 +159,8 @@
         <artifactId>maven-project-info-reports-plugin</artifactId>
         <version>2.7</version>
         <configuration>
-          <anonymousConnection>scm:git:git@github.com:andriusvelykis/reflow-maven-skin.git</anonymousConnection>
-          <developerConnection>scm:git:git@github.com:andriusvelykis/reflow-maven-skin.git</developerConnection>
+          <anonymousConnection>scm:git:git@github.com:teecube/reflow-maven-skin.git</anonymousConnection>
+          <developerConnection>scm:git:git@github.com:teecube/reflow-maven-skin.git</developerConnection>
         </configuration>
         <reportSets>
           <reportSet>
@@ -217,7 +217,7 @@
     <profile>
       <id>stage</id>
       <properties>
-        <site.deploy.url>http://github.com/andriusvelykis/reflow-maven-skin/tree/gh-pages/</site.deploy.url>
+        <site.deploy.url>http://github.com/teecube/reflow-maven-skin/tree/gh-pages/</site.deploy.url>
       </properties>
 
       <build>

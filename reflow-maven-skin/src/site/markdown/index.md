@@ -82,7 +82,7 @@ options are [described in the documentation][doc]. A sample configuration file i
       <highlightJs>true</highlightJs>
       <brand>
         <name>My Project</name>
-        <href>http://github.com/andriusvelykis/reflow-maven-skin</href>
+        <href>http://github.com/teecube/reflow-maven-skin</href>
       </brand>
       <slogan>Super interesting project doing good things.</slogan>
       <titleTemplate>%2$s | %1$s</titleTemplate>
@@ -128,4 +128,4 @@ The source code is [available on GitHub][reflow-src].
 Look for the site configuration and web page sources in `/src/site` of each module;
 and for plug-in configuration in respective POM files.
 
-[reflow-src]: http://github.com/andriusvelykis/reflow-maven-skin "Reflow Maven skin source code"
+[reflow-src]: http://github.com/teecube/reflow-maven-skin "Reflow Maven skin source code"

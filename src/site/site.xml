@@ -10,7 +10,7 @@
       <span class="color-highlight">Reflow</span> Maven Skin
       ]]>
     </name>
-    <href>http://andriusvelykis.github.io/reflow-maven-skin</href>
+    <href>http://teecube.github.io/reflow-maven-skin</href>
   </bannerLeft>
   
   <publishDate position="bottom" format="yyyy-MM-dd" />
@@ -30,7 +30,7 @@
       <theme>default</theme>
       <highlightJs>true</highlightJs>
       <highlightJsTheme>github</highlightJsTheme>
-      <absoluteResourceURL>http://andriusvelykis.github.io/reflow-maven-skin/</absoluteResourceURL>
+      <absoluteResourceURL>http://teecube.github.io/reflow-maven-skin/</absoluteResourceURL>
       <brand>
         <!-- Brand text in top-left part of the site -->
         <name>
@@ -38,7 +38,7 @@
           <span class="color-highlight">Reflow</span> Maven Skin
           ]]>
         </name>
-        <href>http://andriusvelykis.github.io/reflow-maven-skin</href>
+        <href>http://teecube.github.io/reflow-maven-skin</href>
       </brand>
       <slogan>Responsive Apache Maven skin to reflow the standard Maven site with a modern feel</slogan>
       <titleTemplate>%2$s | %1$s</titleTemplate>
@@ -115,7 +115,7 @@
   
     <links>
       <item name="Download" href="skin/index.html#Usage" />
-      <item name="GitHub project" href="http://github.com/andriusvelykis/reflow-maven-skin/" />
+      <item name="GitHub project" href="http://github.com/teecube/reflow-maven-skin/" />
     </links>
 
     <breadcrumbs>
@@ -124,7 +124,7 @@
   
     <menu name="Main" inherit="top">
       <item name="Home" href="./" />
-      <item name="GitHub project" href="http://github.com/andriusvelykis/reflow-maven-skin/" />
+      <item name="GitHub project" href="http://github.com/teecube/reflow-maven-skin/" />
       <item name="Blog" href="http://andrius.velykis.lt/tag/reflow-maven-skin/" />
       <item name="Release notes" href="release-notes.html" />
     </menu>
@@ -148,8 +148,8 @@
     </menu>
     <menu name="Contribute" inherit="bottom">
       <item name="Contribute" href="contribute.html" />
-      <item name="Issues" href="http://github.com/andriusvelykis/reflow-maven-skin/issues/" />
-      <item name="Fork on GitHub" href="http://github.com/andriusvelykis/reflow-maven-skin/" />
+      <item name="Issues" href="http://github.com/teecube/reflow-maven-skin/issues/" />
+      <item name="Fork on GitHub" href="http://github.com/teecube/reflow-maven-skin/" />
       <item name="Donate" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=QWKNRFZH52828" />
     </menu>
     <menu name="Maven documentation" ref="reports" inherit="bottom"/>

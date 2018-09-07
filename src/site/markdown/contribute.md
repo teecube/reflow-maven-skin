@@ -19,7 +19,7 @@ Please report any bugs found, feature requests or other issues on
 
 When creating a new issue, try following [necolas's guidelines][issue-guidelines].
 
-[reflow-issues]: http://github.com/andriusvelykis/reflow-maven-skin/issues/
+[reflow-issues]: http://github.com/teecube/reflow-maven-skin/issues/
 [issue-guidelines]: http://github.com/necolas/issue-guidelines/#readme
 
 
@@ -31,7 +31,7 @@ updates.
 Contribute your fixes and new features back to the main codebase using
 [GitHub pull requests][github-pull-req].
 
-[reflow-github]: http://github.com/andriusvelykis/reflow-maven-skin/
+[reflow-github]: http://github.com/teecube/reflow-maven-skin/
 [github-pull-req]: http://help.github.com/articles/using-pull-requests
 
 
