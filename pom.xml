@@ -10,7 +10,7 @@
 
   <groupId>io.teecube.maven.skins</groupId>
   <artifactId>reflow-parent</artifactId>
-  <version>1.1.2</version>
+  <version>1.1.3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Reflow Maven Skin Parent</name>
@@ -38,7 +38,7 @@
     <connection>scm:git:git@github.com:teecube/reflow-maven-skin.git</connection>
     <developerConnection>scm:git:git@github.com:teecube/reflow-maven-skin.git</developerConnection>
     <url>http://github.com/teecube/reflow-maven-skin/tree/master</url>
-    <tag>reflow-parent-1.1.2</tag>
+    <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>GitHub</system>
